@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aayush Vishwakarma @Aayush27032001
-- 👀 I’m interested in Java, Data Structures & Algorithm, Full-Stack Web Development
-- 🌱 I’m currently learning Java, Data Structures & Algorithm and MERN Stack
-- 💞️ I’m looking to collaborate on Projects in related fields
+- 👀 I’m interested in Java, Data Structures & Algorithm, Full-Stack Web Development.
+- 🌱 I’m currently learning Java, Data Structures & Algorithm and MERN Stack.
+- 💞️ I’m looking to collaborate on Projects in related fields.
 - 📫 Connect me on Linkedin ( https://www.linkedin.com/in/aayushvishwakarma )
 
 <!---
