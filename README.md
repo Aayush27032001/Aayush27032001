@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aayush Vishwakarma</h1>
-<h3 align="center">Frontend Engineer | React.js, TypeScript, JavaScript | Java | Data Structure and Algorithms | </h3>
+<h3 align="center">Frontend Engineer | React.js, TypeScript, JavaScript | MERN Stack | Java | Data Structure and Algorithms | </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush27032001&label=Profile%20views&color=0e75b6&style=flat" alt="aayush27032001" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://aayush27032001.github.io/Portfolio/](https://aayush27032001.github.io/Portfolio/)
 
-- 💬 Ask me about **React, and Java**
+- 💬 Ask me about **Frontend, Reactjs and JavaScript**
 
 - 📫 How to reach me **aayushvishwakarma1999@gmail.com**
 
