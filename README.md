@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aayush Vishwakarma</h1>
-<h3 align="center">Problem Solving, Java, MERN stack Developer</h3>
+<h3 align="center">Frontend Engineer | React.js, TypeScript, JavaScript | Java | Data Structure and Algorithms | </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush27032001&label=Profile%20views&color=0e75b6&style=flat" alt="aayush27032001" /> </p>
 
