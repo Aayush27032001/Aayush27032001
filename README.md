@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aayushvishwakarma1999@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XgoWRyfXH6LIbrpHcpe1PqBAQn9irztf/view)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1XgoWRyfXH6LIbrpHcpe1PqBAQn9irztf/view](https://drive.google.com/file/d/143CW8fL-SP27mN59qRZRvOvITtNh7N_N/view))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
