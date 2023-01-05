@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayush Vishwakarma</h1>
 <h3 align="center">Frontend Engineer | React.js, TypeScript, JavaScript | Java | Data Structure and Algorithms </h3>
 
-- 🌱 I’m currently learning **Full stack development**
+- 🌱 **Frontend Software Engineer**
 
 - 👨‍💻 All of my projects are available at [https://aayush27032001.github.io/Portfolio/](https://aayush27032001.github.io/Portfolio/)
 
